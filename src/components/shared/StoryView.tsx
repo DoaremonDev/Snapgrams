@@ -97,7 +97,6 @@ const StoryView: React.FC = () => {
 
 export default StoryView;*/
 
-import React from 'react'
 
 const StoryView = () => {
   return (
